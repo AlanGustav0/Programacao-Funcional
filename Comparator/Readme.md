@@ -2,4 +2,4 @@
 
 #### • Classe anônima Comparable
 #### • Arrow function com expressão Lambda
-#### • [Method Reference] (https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)
+#### • [Method Reference](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)
