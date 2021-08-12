@@ -1,6 +1,6 @@
 # Function
 
-##### Esta é uma interface funcional que recebe um elemento do tipo "T" e retorno um elemento do tipo "String", os conceitos abaixo foram abordados e 
+Esta é uma interface funcional que recebe um elemento do tipo "T" e retorno um elemento do tipo "String", os conceitos abaixo foram abordados e 
 um problema exemplo foi criado para exemplificar a utilização desses conceitos.
 
 #### • [Interface funcional function](https://docs.oracle.com/javase/8/docs/api/java/util/function/Function.html)
