@@ -1,9 +1,9 @@
 # Consumer
 
-#### [Interface funcional consumer](https://docs.oracle.com/javase/8/docs/api/java/util/function/Consumer.html)
+#### • [Interface funcional consumer](https://docs.oracle.com/javase/8/docs/api/java/util/function/Consumer.html)
 
-#### Reference Method
+#### • Reference Method
 
-#### Exmpressão lambda declarada
+#### • Exmpressão lambda declarada
 
-#### Expressão lambda inline
+#### • Expressão lambda inline
