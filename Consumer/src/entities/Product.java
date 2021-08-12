@@ -22,18 +22,22 @@ public class Product {
 		return price;
 	}
 	
-	public static boolean staticProductPredicate(Product p) {
-		return p.getPrice() >= 100.0;
+	
+	public void setPrice(double price) {
+		this.price = price;
 	}
 	
-	public boolean nonstaticProductPredicate() {
-		return price >= 100.0;
+	public static void staticPriceUpdate(Product p) {
+		p.setPrice(p.getPrice() * 1.1);
 	}
 	
+	public void nonStaticPriceUpdate() {
+		price *= 1.1;
+	}
 
 	@Override
 	public String toString() {
-		return "Product Name: " + name + ", Price: " + price;
+		return "Product Name: " + name + ", Price: " + String.format("%.2f", price);
 	}
 	
 	
