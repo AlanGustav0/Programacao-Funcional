@@ -1,21 +1,11 @@
-# Function
+# Functions e Predicate
 
-Esta é uma interface funcional que recebe um elemento do tipo "T" e retorno um elemento do tipo "String", os conceitos abaixo foram abordados e 
-um problema exemplo foi criado para exemplificar a utilização desses conceitos.
+Neste exemplo, foram realizados 2 commits, o rpimeiro possui a classe ProductService realizando o filtro dos produtos com a letra 'T', porém a classe não estava fechada pára alteração.
 
-#### • [Interface funcional function](https://docs.oracle.com/javase/8/docs/api/java/util/function/Function.html)
-
-#### • Reference Method
-
-#### • Expressão lambda declarada
-
-#### • Expressão lambda inline
-
-#### • Stream
-
-#### • Map (função que funciona a partir de um stream) e aplica uma função a todos os elementos dessa stream
+No segundo exemplo, passados uma função lambda por parâmetro, e a função criada na classe ProductService recebendo um Predicate, com isso, podemos alterar a função passada por parâmetro sem precisar realizar a manutenção na classe Productservice
 
 
 # Problema Exemplo
 
-##### Fazer um programa que, a partir de uma lista de produtos, gere uma nova lista contendo os nomes dos produtos em caixa alta.
+##### Fazer um programa que, a partir de uma lista de produtos, calcule a soma dos preços somente dos produtos cujo nome
+começa com "T".
