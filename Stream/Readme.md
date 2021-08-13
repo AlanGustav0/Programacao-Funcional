@@ -1,6 +1,6 @@
 # Stream
 
-É uma sequência de elementos advinda de uma fonte de dados que oferece suporte a "operações agregadas"
+É uma sequência de elementos advinda de uma fonte de dados que oferece suporte a "operações agregadas".
 Podemos dizer que as fontes de dados são: coleções, arrays, funções de iteração e recursos de entrada e saída de dados.
 
 ## [Stream](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html)
