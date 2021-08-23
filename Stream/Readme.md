@@ -19,8 +19,3 @@ O programador informa o que será feito e o processamento é feito internamente
 #### Acesso sequencial
 • Não há indices na stream
 
-
-# Problema Exemplo
-
-##### Fazer um programa que, a partir de uma lista de produtos, calcule a soma dos preços somente dos produtos cujo nome
-começa com "T".
