@@ -44,5 +44,5 @@ O pipeline é composto por zero ou mais elementos intermediários e uma terminal
 • findFirst (*)
 • findAny (*)
 
-* [short-circuit](https://www.geeksforgeeks.org/short-circuiting-in-java-with-examples/)
+* [* short-circuit](https://www.geeksforgeeks.org/short-circuiting-in-java-with-examples/)
 
